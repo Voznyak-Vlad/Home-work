@@ -1,0 +1,35 @@
+.Lifestyle{
+    color: #03A9F4;
+    margin-top: 71px;
+    margin-left: 315px;
+    height: 19px;
+    width: 71px;
+    position: absolute;
+}
+.Lifestyle:hover{
+    cursor: pointer;
+}
+.photodiary{
+    color:#7D7D7D ;
+    margin-top: 71px;
+    margin-left: 485px;
+    height: 19px;
+    width: 71px;
+    position: absolute;
+}
+.music{
+    color:#7D7D7D ;
+    margin-top: 71px;
+    margin-left: 674px;
+    height: 19px;
+    width: 71px;
+    position: absolute;
+}
+.travel{
+    color:#7D7D7D ;
+    margin-top: 71px;
+    margin-left: 818px;
+    height: 19px;
+    width: 71px;
+    position: absolute;
+}
