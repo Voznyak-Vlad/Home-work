@@ -1,0 +1,15 @@
+body{
+  font-family: "Roboto", sans-serif;
+  color: #212121;  
+}
+
+.logo {
+    font-family: "Raleway" ;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.03em;
+}
+
+.logo__game {
+    color: #2196f3 ;
+}
